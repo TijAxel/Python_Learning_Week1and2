@@ -23,3 +23,4 @@ favorite_animal= input("What is your favorite animal?")
 print("Your favorite animal is a" + favorite_animal)
 #lets do some practice
 # TYPE SOME MO' COMMENTS!!
+# HOLY MOLY SO MANY COMMENTS!!!
